@@ -1,0 +1,3 @@
+     $("#i_calender").off("calender:select", this._setDate).on("calender:select", {ctx:this}, this._setDate);
+$("#i_calender").off("calender:select", this._setDate).on("calender:select", {ctx:this}, this._setDate);
+("#"+e.data.ctx.divId).trigger("calender:select", ¡°¡±£©
